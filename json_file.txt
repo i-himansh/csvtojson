@@ -1,0 +1,17 @@
+[
+      {
+            "Club": "Manchester United",
+            "City": "Manchester",
+            "Country": "UK"
+      },
+      {
+            "Club": "Real Mardrid",
+            "City": "Madrid",
+            "Country": "Spain"
+      },
+      {
+            "Club": "Juventus",
+            "City": "Turin",
+            "Country": "Italy"
+      }
+]
